@@ -6,7 +6,7 @@ This is a simple C project demonstrating basic CI/CD steps:
 - **Unit Testing:** Running tests to validate functionality.
 - **Linting:** Running static analysis (using cppcheck) to catch potential issues.
 
-## Directory Structure
+## Directory Structure  
 
 ```
 c-demo-project/
